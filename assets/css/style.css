@@ -2,4 +2,60 @@ body{
     padding: 0%;
     margin: 0%;
     background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Header*/
+.containerHeader{
+    display: flex;
+    height: 3.75rem;
+    background-color:#FFFFFF;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+
+#logoHeader{
+    margin-left: 6.25rem;
+}
+
+#navegacaoHeader{
+    display: flex;
+    margin-left: 58.125rem;
+}
+
+.botaoHeader{
+    margin-top: 1.25rem;
+    margin-right: .625rem;
+    margin-left: 1.25rem;
+}
+
+.botaoHeader a{
+    text-decoration: none;
+    color: black;
+    height: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#botaoHeaderContato{
+    border-radius: 1.25rem;
+    background-color: #27b8ec;
+    margin-top: .625rem;
+    padding-top: .4375rem;
+    padding-left: .9375rem;
+    padding-right: .9375rem;
+    padding-bottom: .625rem;
+    margin-left: 1.875rem;
+    height: 1.25rem;
+    box-shadow:0 0 .1875rem #04A6E1 ;
+}
+
+#botaoHeaderContato:hover{
+    background-color: #04bcff;
+    box-shadow:0 0 15px #43cdff ;
+    transition: box-shadow 0.4s ease-in-out;
+}
+
+#botaoHeaderContato a{
+    font-size: 1.125rem;
+    text-decoration: none;
+    color: #FFFFFF;
 }
