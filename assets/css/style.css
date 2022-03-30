@@ -61,30 +61,30 @@ body{
 }
 /*Primeira Chamda*/
 .containerFirstCall{
-    height: 690px;
+    height: 43.125rem;
     justify-content: center;
     
 }
 
 .firstCall{
-    margin-left: 270px;
+    margin-left: 16.875rem;
     justify-content: center;
     text-align: center;
-    width: 900px;
+    width: 56.25rem;
 }
 
 #TitleFirst{
-    font-size: 40px;
+    font-size: 2.5rem;
     color: #04A6E1;
 }
 
 #textFirstCall{
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
 }
 
 #subTitleCall{
-    margin-left: 60px;
-    font-size: 18px;
-    width: 800px;
+    margin-left: 3.75rem;
+    font-size: 1.125rem;
+    width: 50rem;
     
 }
