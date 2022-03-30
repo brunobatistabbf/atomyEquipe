@@ -59,3 +59,32 @@ body{
     text-decoration: none;
     color: #FFFFFF;
 }
+/*Primeira Chamda*/
+.containerFirstCall{
+    height: 690px;
+    justify-content: center;
+    
+}
+
+.firstCall{
+    margin-left: 270px;
+    justify-content: center;
+    text-align: center;
+    width: 900px;
+}
+
+#TitleFirst{
+    font-size: 40px;
+    color: #04A6E1;
+}
+
+#textFirstCall{
+    margin-bottom: 40px;
+}
+
+#subTitleCall{
+    margin-left: 60px;
+    font-size: 18px;
+    width: 800px;
+    
+}
