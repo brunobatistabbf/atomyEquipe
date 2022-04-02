@@ -62,6 +62,7 @@ body {
 
 /*Primeira Chamda*/
 .containerFirstCall {
+    display: block;
     height: 43.125rem;
     justify-content: center;
 
@@ -172,4 +173,10 @@ body {
 
 #aboutText p {
     margin-bottom: 40px;
+}
+
+/*Parte de texto do meio*/
+.containerMiddle {
+    background-color: white;
+    height: 919px;
 }
