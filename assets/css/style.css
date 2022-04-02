@@ -120,4 +120,34 @@ body {
 
 #buttonWPP {
     margin-top: 3.125rem;
+    margin-bottom: 30px;
+}
+
+/*Sobre o lider*/
+.containerAbout {
+    padding-top: 60px;
+    height: 1041px;
+    background-color: #F5F9FF;
+    justify-content: center;
+    text-align: center;
+}
+
+#titleAbout {
+
+    text-align: center;
+    font-size: 40px;
+    color: #181818;
+    margin-bottom: 10px;
+
+}
+
+#subTitleAbout {
+    margin-top: 30px;
+    margin-left: 300px;
+    text-align: center;
+    justify-content: center;
+    width: 940px;
+    color: #4484FB;
+    font-size: 20px;
+    padding-bottom: 40px;
 }
