@@ -125,8 +125,9 @@ body {
 
 /*Sobre o lider*/
 .containerAbout {
+
     padding-top: 60px;
-    height: 1041px;
+    height: 750px;
     background-color: #F5F9FF;
     justify-content: center;
     text-align: center;
@@ -150,4 +151,25 @@ body {
     color: #4484FB;
     font-size: 20px;
     padding-bottom: 40px;
+}
+
+#textandimageabout {
+    margin-top: 10px;
+    margin-left: 300px;
+    display: flex;
+}
+
+#aboutText {
+    font-size: 21px;
+    width: 600px;
+    text-align: justify;
+    margin-left: 30px;
+}
+
+#imgAbout {
+    box-shadow: 0 0 10px rgb(168, 168, 168);
+}
+
+#aboutText p {
+    margin-bottom: 40px;
 }
