@@ -176,7 +176,55 @@ body {
 }
 
 /*Parte de texto do meio*/
-.containerMiddle {
+.containerMidle {
+    padding-bottom: 50px;
+    padding-top: 50px;
     background-color: white;
-    height: 919px;
+    height: 670px;
+    text-align: center;
+}
+
+
+
+#titleMidle {
+    display: block inline;
+    color: #04bcff;
+    font-size: 70px;
+}
+
+#subtitleMidle {
+    display: block inline;
+    font-size: 40px;
+    margin-bottom: 10px;
+
+}
+
+#subMidleMsg {
+    display: block inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #4484FB;
+    padding-bottom: 40px;
+}
+
+#textMidle {
+    display: inline-block;
+    width: 770px;
+    padding-left: 85px;
+    padding-right: 85px;
+
+}
+
+#textMidle p {
+    font-size: 18px;
+    text-align: left;
+}
+
+
+
+#linkMidle a {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(222, 222, 222);
+    font-size: 9px;
 }
