@@ -272,3 +272,30 @@ body {
 #cardsThreeColunm {
     display: flex;
 }
+
+#card {
+    display: flex;
+    flex-direction: column;
+    height: 280px;
+    width: 300px;
+    background-color: #FFFFFF;
+    padding: 18px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0px 2px 52px 0px rgb(68 132 251 / 25%);
+    border: 1px solid rgba(68, 132, 251, 0.3);
+    border-radius: 10px;
+    border-top: 5px solid #4484FB;
+    align-items: center;
+}
+
+#card h4 {
+    margin-bottom: 10px;
+    background-color: #e8f0ff;
+    border-radius: 50px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: #11171a;
+    font-weight: 800;
+    font-size: 20px;
+}
