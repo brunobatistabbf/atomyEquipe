@@ -290,6 +290,7 @@ body {
 }
 
 #card h4 {
+    text-align: center;
     margin-bottom: 10px;
     background-color: #e8f0ff;
     border-radius: 50px;
@@ -298,4 +299,13 @@ body {
     color: #11171a;
     font-weight: 800;
     font-size: 20px;
+    width: 300px;
+}
+
+#card p {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #444444;
+
 }
