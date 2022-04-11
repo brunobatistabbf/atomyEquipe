@@ -309,3 +309,49 @@ body {
     color: #444444;
 
 }
+
+/*Little Cards*/
+.containerLittleCards {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 1550px;
+    background-color: #F5F9FF;
+
+}
+
+#containerLittleCards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#titleLittleCards {
+    padding-top: 70px;
+    text-align: center;
+    font-size: 50px;
+    color: #FB4484;
+
+}
+
+#subLittleCards {
+    margin-top: 10px;
+    display: inline-block;
+    width: 940px;
+    align-items: center;
+    text-align: center;
+    color: #181818;
+    font-size: 40px;
+}
+
+#subLegendLittleCards {
+    padding-top: 10px;
+    font-size: 20px;
+    height: 30px;
+    color: #4484FB;
+
+}
+
+#paragrafosLittleCards {
+    font-size: 20px;
+}
