@@ -102,7 +102,7 @@ body {
     padding-bottom: 2.5rem;
     color: white;
     border-radius: 6.25rem;
-    border-width: 0px;
+    border-width: 0rem;
     box-shadow: inset 0px -10px 0px 0px rgb(0 0 0 / 30%), 0px 12px 18px -6px rgb(0 0 0 / 50%);
 }
 
@@ -127,8 +127,8 @@ body {
 /*Sobre o lider*/
 .containerAbout {
 
-    padding-top: 60px;
-    height: 750px;
+    padding-top: 3.75rem;
+    height: 46.875rem;
     background-color: #F5F9FF;
     justify-content: center;
     text-align: center;
@@ -137,34 +137,34 @@ body {
 #titleAbout {
 
     text-align: center;
-    font-size: 40px;
+    font-size: 2.5rem;
     color: #181818;
-    margin-bottom: 10px;
+    margin-bottom: .625rem;
 
 }
 
 #subTitleAbout {
-    margin-top: 30px;
-    margin-left: 300px;
+    margin-top: 1.875rem;
+    margin-left: 18.75rem;
     text-align: center;
     justify-content: center;
-    width: 940px;
+    width: 58.75rem;
     color: #4484FB;
-    font-size: 20px;
+    font-size: 1.25rem;
     padding-bottom: 40px;
 }
 
 #textandimageabout {
-    margin-top: 10px;
-    margin-left: 300px;
+    margin-top: .625rem;
+    margin-left: 18.75rem;
     display: flex;
 }
 
 #aboutText {
-    font-size: 21px;
-    width: 600px;
+    font-size: 1.3125rem;
+    width: 37.5rem;
     text-align: justify;
-    margin-left: 30px;
+    margin-left: 1.875rem;
 }
 
 #imgAbout {
@@ -172,15 +172,15 @@ body {
 }
 
 #aboutText p {
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
 }
 
 /*Parte de texto do meio*/
 .containerMidle {
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 3.125rem;
+    padding-top: 3.125rem;
     background-color: white;
-    height: 670px;
+    height: 41.875rem;
     text-align: center;
 }
 
@@ -189,34 +189,34 @@ body {
 #titleMidle {
     display: block inline;
     color: #04bcff;
-    font-size: 70px;
+    font-size: 4.375rem;
 }
 
 #subtitleMidle {
     display: block inline;
-    font-size: 40px;
-    margin-bottom: 10px;
+    font-size: 2.5rem;
+    margin-bottom: .625rem;
 
 }
 
 #subMidleMsg {
     display: block inline;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #4484FB;
-    padding-bottom: 40px;
+    padding-bottom: 2.5rem;
 }
 
 #textMidle {
     display: inline-block;
-    width: 770px;
-    padding-left: 85px;
-    padding-right: 85px;
+    width: 48.125rem;
+    padding-left: 5.3125rem;
+    padding-right: 5.3125rem;
 
 }
 
 #textMidle p {
-    font-size: 18px;
+    font-size: 1.125rem;
     text-align: left;
 }
 
@@ -226,39 +226,39 @@ body {
     display: inline-block;
     text-decoration: none;
     color: rgb(222, 222, 222);
-    font-size: 9px;
+    font-size: .5625rem;
 }
 
 /*Segundo Container*/
 .containerMidleTwo {
-    padding-bottom: 50px;
-    padding-top: 50px;
+    padding-bottom: 3.125rem;
+    padding-top: 3.125rem;
     background-color: #f3f7ff;
-    height: 1200px;
+    height: 75rem;
     text-align: center;
 }
 
 /*Container Para cards de vantagens*/
 .containerCards {
-    padding-top: 70px;
+    padding-top: 4.375rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 1200px;
+    height: 75rem;
     background-color: #f8fbfe;
 }
 
 #containerCardsArea {
-    width: 1000px;
+    width: 62.5rem;
     align-items: center;
 
 }
 
 #titleCards {
     text-align: center;
-    font-size: 35px;
+    font-size: 2.1875rem;
     color: #181818;
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
 }
 
 #cardsOneColunm {
@@ -276,36 +276,36 @@ body {
 #card {
     display: flex;
     flex-direction: column;
-    height: 280px;
-    width: 300px;
+    height: 17.5rem;
+    width: 18.75rem;
     background-color: #FFFFFF;
-    padding: 18px;
-    margin-right: 20px;
-    margin-bottom: 40px;
+    padding: 1.125rem;
+    margin-right: 1.25rem;
+    margin-bottom: 2.5rem;
     box-shadow: 0px 2px 52px 0px rgb(68 132 251 / 25%);
     border: 1px solid rgba(68, 132, 251, 0.3);
-    border-radius: 10px;
+    border-radius: .625rem;
     border-top: 5px solid #4484FB;
     align-items: center;
 }
 
 #card h4 {
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: .625rem;
     background-color: #e8f0ff;
-    border-radius: 50px;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    border-radius: 3.125rem;
+    padding-top: .4375rem;
+    padding-bottom: .4375rem;
     color: #11171a;
     font-weight: 800;
-    font-size: 20px;
-    width: 300px;
+    font-size: 1.25rem;
+    width: 18.75rem;
 }
 
 #card p {
     text-align: center;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #444444;
 
 }
@@ -315,7 +315,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    height: 1470px;
+    height: 91.875rem;
     background-color: #F5F9FF;
 
 }
@@ -327,33 +327,33 @@ body {
 }
 
 #titleLittleCards {
-    padding-top: 70px;
+    padding-top: 4.375rem;
     text-align: center;
-    font-size: 50px;
+    font-size: 3.125rem;
     color: #04bcff;
 
 }
 
 #subLittleCards {
-    margin-top: 10px;
+    margin-top: .625rem;
     display: inline-block;
-    width: 940px;
+    width: 58.75rem;
     align-items: center;
     text-align: center;
     color: #181818;
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 #subLegendLittleCards {
-    padding-top: 10px;
-    font-size: 20px;
-    height: 30px;
+    padding-top: .625rem;
+    font-size: 1.25rem;
+    height: 1.875rem;
     color: #4484FB;
 
 }
 
 #paragrafosLittleCards {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 /*Cards */
@@ -371,12 +371,12 @@ body {
 
 .cardsCartoes {
     display: block;
-    border-radius: 10px;
-    margin: 10px;
+    border-radius: .625rem;
+    margin: .625rem;
     flex-direction: column;
-    width: 270px;
-    height: 136px;
-    padding: 18px;
+    width: 16.875rem;
+    height: 8.5rem;
+    padding: 1.125rem;
 
     border-top: 5px solid #4484fb;
     box-shadow: 0px 2px 81px 0px rgb(68 132 251 / 30%);
@@ -391,7 +391,7 @@ body {
 
 .cartoesTitle {
     text-align: center;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: #535b7c;
 }
 
@@ -399,7 +399,7 @@ body {
 .botaoFinalArea {
     display: flex;
     flex-direction: column;
-    padding-top: 40px;
+    padding-top: 2.5rem;
 }
 
 #botaoFinal {
@@ -410,7 +410,26 @@ body {
 #titleBotaoFinal {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     display: block;
-    font-size: 70px;
+    font-size: 4.375rem;
     color: black;
-    padding-bottom: 20px;
+    padding-bottom: 1.25rem;
+}
+
+/*Footer*/
+.footer {
+    height: 6.25rem;
+    background-color: #11171A;
+}
+
+#footer {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: .8125rem;
+    color: #666;
+    padding-top: 2.5rem;
+}
+
+#footer a {
+    text-decoration: none;
+    color: #666;
 }
